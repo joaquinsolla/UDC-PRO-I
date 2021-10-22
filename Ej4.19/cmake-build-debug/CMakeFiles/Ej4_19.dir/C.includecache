@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Joaquin Windows/Desktop/UDC/Programacion 1/Clion/CLionProjects/Ej4.19/main.c
+stdio.h
+-
+stdlib.h
+-
+
