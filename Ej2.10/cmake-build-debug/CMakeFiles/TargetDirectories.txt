@@ -1,0 +1,3 @@
+/home/joaquin/UDC/Programación 1/Clion/CLionProjects/Ej2.10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/joaquin/UDC/Programación 1/Clion/CLionProjects/Ej2.10/cmake-build-debug/CMakeFiles/Ej2_10.dir
+/home/joaquin/UDC/Programación 1/Clion/CLionProjects/Ej2.10/cmake-build-debug/CMakeFiles/edit_cache.dir
