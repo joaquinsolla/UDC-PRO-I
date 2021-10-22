@@ -1,0 +1,15 @@
+The system is: CYGWIN - 3.0.7(0.338/5/3) - x86_64
+The system is: CYGWIN - 3.0.7(0.338/5/3) - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "/cygdrive/c/Users/Joaquin Windows/Desktop/UDC/Programacion 1/Clion/CLionProjects/Ej3.7/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe"
+

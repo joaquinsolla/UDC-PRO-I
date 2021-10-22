@@ -1,0 +1,1 @@
+/usr/bin/cc    -Wl,--enable-auto-import  CMakeFiles/cmTC_cdf76.dir/testCCompiler.c.o  -o cmTC_cdf76.exe -Wl,--out-implib,libcmTC_cdf76.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
