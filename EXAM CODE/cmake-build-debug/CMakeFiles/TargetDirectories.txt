@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Joaquin Windows/Desktop/UDC/Q1/Programacion 1/Clion/CLionProjects/EXAMEN PRACTICAS 3PTS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Joaquin Windows/Desktop/UDC/Q1/Programacion 1/Clion/CLionProjects/EXAMEN PRACTICAS 3PTS/cmake-build-debug/CMakeFiles/EXAMEN.dir
+/cygdrive/c/Users/Joaquin Windows/Desktop/UDC/Q1/Programacion 1/Clion/CLionProjects/EXAMEN PRACTICAS 3PTS/cmake-build-debug/CMakeFiles/edit_cache.dir

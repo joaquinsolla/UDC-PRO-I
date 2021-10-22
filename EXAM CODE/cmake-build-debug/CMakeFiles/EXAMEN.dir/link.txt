@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/EXAMEN.dir/main.c.o  -o EXAMEN.exe -Wl,--out-implib,libEXAMEN.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
