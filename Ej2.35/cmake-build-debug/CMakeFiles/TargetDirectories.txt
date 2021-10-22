@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Joaquin Windows/Desktop/UDC/Programacion 1/Clion/CLionProjects/Ej2.35/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Joaquin Windows/Desktop/UDC/Programacion 1/Clion/CLionProjects/Ej2.35/cmake-build-debug/CMakeFiles/Ej2_35.dir
+/cygdrive/c/Users/Joaquin Windows/Desktop/UDC/Programacion 1/Clion/CLionProjects/Ej2.35/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Ej2_35.dir/main.c.o  -o Ej2_35.exe -Wl,--out-implib,libEj2_35.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
