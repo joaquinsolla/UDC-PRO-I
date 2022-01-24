@@ -1,2 +1,2 @@
-# PRO I - Progrmación I
-My first steps coding in C
+# PRO I
+Programming I
